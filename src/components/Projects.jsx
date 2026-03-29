@@ -4,19 +4,19 @@ import GithubIcon from './icons/GithubIcon'
 
 const projects = [
   {
-    name: 'spivhack.com',
-    url: 'https://spivhack.com',
-    thumbnail: '/images/spivhack-img.png',
-  },
-  {
     name: 'arnoldsoundboard.com',
     url: 'https://arnoldsoundboard.com',
     thumbnail: '/images/arnoldsoundboard-img.png',
   },
-    {
+  {
     name: 'spivack.org',
     url: 'https://spivack.org',
     thumbnail: '/images/spivackorg-img.png',
+  },
+  {
+    name: 'spivhack.com',
+    url: 'https://spivhack.com',
+    thumbnail: '/images/spivhack-img.png',
   },
   {
     name: 'Coming Soon',
